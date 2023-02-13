@@ -1,11 +1,54 @@
 {
   "Version": 1,
-  "Hash": "7Aw9NiDKh+a1QB420sRiM1x0yzU0wsqnX1KYKH0bnNU=",
+  "Hash": "EKjpxOpZOBssYsIzkW+MMlIvXcwCWKiIw1o3QS4suZA=",
   "Source": "SignalR",
   "BasePath": "_content/SignalR",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalR\\wwwroot",
+      "Source": "SignalR",
+      "ContentRoot": "G:\\SignalRDemo\\usaprimeapi\\USAPrimeAPI\\wwwroot\\",
+      "BasePath": "_content/SignalR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\SignalRDemo\\usaprimeapi\\USAPrimeAPI\\wwwroot\\js\\site.js",
+      "SourceId": "SignalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\SignalRDemo\\usaprimeapi\\USAPrimeAPI\\wwwroot\\",
+      "BasePath": "_content/SignalR",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "G:\\SignalRDemo\\usaprimeapi\\USAPrimeAPI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "SignalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\SignalRDemo\\usaprimeapi\\USAPrimeAPI\\wwwroot\\",
+      "BasePath": "_content/SignalR",
+      "RelativePath": "microsoft/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    }
+  ]
 }

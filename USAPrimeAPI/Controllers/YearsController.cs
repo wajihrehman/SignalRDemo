@@ -1,6 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
+using SignalR.Hubs;
+using SignalR.Interfaces;
 using USAPrimeAPI.BusinessModels;
 using USAPrimeAPI.Context;
 
@@ -11,10 +14,12 @@ namespace USAPrimeAPI.Controllers
     public class YearsController : ControllerBase
     {
         private readonly ApplicationContext _db;
+        private readonly IHubContext<FirstHub, ITypedHubClient> _firstHub;
 
-        public YearsController(ApplicationContext context)
+        public YearsController(ApplicationContext context, IHubContext<FirstHub, ITypedHubClient> firstHub)
         {
             _db = context;
+            _firstHub = firstHub;
         }
 
 
@@ -26,7 +31,9 @@ namespace USAPrimeAPI.Controllers
             {
                 _db.T_Years.Add(model);
                 _db.SaveChanges();
-                return Ok("API Running");
+                GetYears();
+                //await _firstHub.Clients.All.SendAsync("LoadProducts");
+                return Ok(new { result = "API Running" });
             }
             catch (Exception ex)
             {
@@ -34,19 +41,10 @@ namespace USAPrimeAPI.Controllers
             }
         }
 
-        [HttpGet]
-        [Route("GetYears")]
-        public async Task<IActionResult> GetYears()
+        public void GetYears()
         {
-            try
-            {
-                var lst = await _db.T_Years.ToListAsync();
-                return Ok(lst);
-            }
-            catch (Exception ex)
-            {
-                return Ok(ex);
-            }
+            var lst = _db.T_Years.ToList();
+            _firstHub.Clients.All.BroadcastMessage(lst);
         }
     }
 }

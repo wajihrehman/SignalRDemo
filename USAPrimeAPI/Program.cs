@@ -1,6 +1,7 @@
 using MailKit;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using SignalR.Hubs;
 using USAPrimeAPI.BusinessModels;
 using USAPrimeAPI.Context;
 
@@ -43,20 +44,35 @@ builder.Services.Configure<IdentityOptions>(options =>
     "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+";
     options.User.RequireUniqueEmail = false;
 });
-builder.Services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
+builder.Services.AddCors(o => o.AddPolicy("CorsPolicy", builder =>
 {
-    builder.AllowAnyOrigin()
-           .AllowAnyMethod()
-           .AllowAnyHeader();
+    builder
+        .AllowAnyMethod()
+        .AllowAnyHeader()
+        .AllowAnyOrigin()
+        .AllowCredentials()
+        .WithOrigins("http://localhost:4200");
 }));
+
+builder.Services.AddSignalR();
+builder.Services.AddControllers().AddJsonOptions(options =>
+{
+    options.JsonSerializerOptions.PropertyNamingPolicy = null;
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseCors("MyPolicy");
+    app.UseCors("CorsPolicy");
     app.UseSwagger();
     app.UseSwaggerUI();
+    app.UseRouting();
+    app.UseEndpoints(endpoints =>
+    {
+        endpoints.MapHub<FirstHub>("/firstHub");
+    });
+
 }
 
 app.UseCors("MyPolicy");

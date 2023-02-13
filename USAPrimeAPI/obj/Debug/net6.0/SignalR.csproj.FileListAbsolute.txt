@@ -86,3 +86,5 @@ G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\refint\SignalR.dll
 G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\SignalR.pdb
 G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\SignalR.genruntimeconfig.cache
 G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\ref\SignalR.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\libman.json
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\SignalR.staticwebassets.runtime.json
