@@ -1,0 +1,325 @@
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\appsettings.Development.json
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\appsettings.json
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.exe
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.deps.json
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.runtimeconfig.json
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.pdb
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.AssemblyReference.cache
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.AssemblyInfoInputs.cache
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.AssemblyInfo.cs
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.CoreCompileInputs.cache
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\staticwebassets.build.json
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\staticwebassets.development.json
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\scopedcss\bundle\USAPrimeAPI.styles.css
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.CopyComplete
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\refint\USAPrimeAPI.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.pdb
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.genruntimeconfig.cache
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\ref\USAPrimeAPI.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Humanizer.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\USAPrimeAPI\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\appsettings.Development.json
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\appsettings.json
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.exe
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.deps.json
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.runtimeconfig.json
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.pdb
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Humanizer.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\USAPrimeAPI\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.AssemblyReference.cache
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.AssemblyInfoInputs.cache
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.AssemblyInfo.cs
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.CoreCompileInputs.cache
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\staticwebassets.build.json
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\staticwebassets.development.json
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\scopedcss\bundle\USAPrimeAPI.styles.css
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.CopyComplete
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.dll
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\refint\USAPrimeAPI.dll
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.pdb
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.genruntimeconfig.cache
+G:\USAPrimeAPI\USAPrimeAPI\obj\Debug\net6.0\ref\USAPrimeAPI.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\refint\USAPrimeAPI.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.pdb
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\appsettings.json
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.exe
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.deps.json
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.runtimeconfig.json
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.pdb
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Humanizer.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.AssemblyReference.cache
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.AssemblyInfoInputs.cache
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.AssemblyInfo.cs
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.CoreCompileInputs.cache
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\scopedcss\bundle\USAPrimeAPI.styles.css
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.CopyComplete
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.genruntimeconfig.cache
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\ref\USAPrimeAPI.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\MailKit.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\MimeKit.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Core.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Identity.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+G:\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\MailKit.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\MimeKit.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\USA Prime Baseball\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.AssemblyReference.cache
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.AssemblyInfoInputs.cache
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.AssemblyInfo.cs
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.CoreCompileInputs.cache
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\refint\USAPrimeAPI.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.pdb
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\appsettings.Development.json
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\appsettings.json
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.exe
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.deps.json
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.runtimeconfig.json
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\USAPrimeAPI.pdb
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Core.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Identity.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Humanizer.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\MailKit.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\MimeKit.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\staticwebassets.build.json
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\staticwebassets.development.json
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\scopedcss\bundle\USAPrimeAPI.styles.css
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.csproj.CopyComplete
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\USAPrimeAPI.genruntimeconfig.cache
+G:\SignalRDemo\usaprimeapi\USAPrimeAPI\obj\Debug\net6.0\ref\USAPrimeAPI.dll

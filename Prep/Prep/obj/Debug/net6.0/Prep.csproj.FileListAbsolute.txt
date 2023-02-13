@@ -1,0 +1,15 @@
+G:\usaprimeapi\Prep\Prep\bin\Debug\net6.0\Prep.exe
+G:\usaprimeapi\Prep\Prep\bin\Debug\net6.0\Prep.deps.json
+G:\usaprimeapi\Prep\Prep\bin\Debug\net6.0\Prep.runtimeconfig.json
+G:\usaprimeapi\Prep\Prep\bin\Debug\net6.0\Prep.dll
+G:\usaprimeapi\Prep\Prep\bin\Debug\net6.0\Prep.pdb
+G:\usaprimeapi\Prep\Prep\obj\Debug\net6.0\Prep.csproj.AssemblyReference.cache
+G:\usaprimeapi\Prep\Prep\obj\Debug\net6.0\Prep.GeneratedMSBuildEditorConfig.editorconfig
+G:\usaprimeapi\Prep\Prep\obj\Debug\net6.0\Prep.AssemblyInfoInputs.cache
+G:\usaprimeapi\Prep\Prep\obj\Debug\net6.0\Prep.AssemblyInfo.cs
+G:\usaprimeapi\Prep\Prep\obj\Debug\net6.0\Prep.csproj.CoreCompileInputs.cache
+G:\usaprimeapi\Prep\Prep\obj\Debug\net6.0\Prep.dll
+G:\usaprimeapi\Prep\Prep\obj\Debug\net6.0\refint\Prep.dll
+G:\usaprimeapi\Prep\Prep\obj\Debug\net6.0\Prep.pdb
+G:\usaprimeapi\Prep\Prep\obj\Debug\net6.0\Prep.genruntimeconfig.cache
+G:\usaprimeapi\Prep\Prep\obj\Debug\net6.0\ref\Prep.dll
